@@ -1,5 +1,6 @@
 ![Python](https://img.shields.io/badge/Python-3.13-blue)
 ![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange)Game Sales and Rating Prediction
+
 📊 Overview
 
 This project analyzes and predicts global video game sales based on various features such as platform, genre, critic scores, user scores, publisher, and more.

@@ -78,3 +78,23 @@ Add a recommendation system for games
 Integrate more features (price, platform release year, etc.)
 
 Deploy model using Streamlit or Flask
+
+## 📸 Visual Insights
+
+**1️⃣ Compare the popularity of genres or platforms in different regions**
+![Regional Popularity](images/Compare%20the%20popularity%20of%20the%20genres%20or%20platform%20in%20the%20different%20regions.png)
+
+**2️⃣ Correlation Matrix for Selected Columns**
+![Correlation Matrix](images/correlation%20matrix%20for%20selected%20columns.png)
+
+**3️⃣ Global Video Game Sales Over Years**
+![Global Sales](images/global%20video%20sales%20over%20years.png)
+
+**4️⃣ Top 10 Genres with the Highest Global Sales**
+![Top 10 Genres](images/top%2010%20genre%20with%20the%20highest%20global%20sales.png)
+
+**5️⃣ Top 10 Platforms with the Highest Global Sales**
+![Top 10 Platforms](images/top%2010%20platforms%20with%20the%20highest%20global%20sales.png)
+
+**6️⃣ Top 10 Publishers with the Highest Global Sales**
+![Top 10 Publishers](images/Top%2010%20publishers%20with%20the%20higest%20global%20sales.png)
